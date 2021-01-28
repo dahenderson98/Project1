@@ -7,7 +7,7 @@ Dallin Henderson
 #pragma once
 #include <cctype>
 #include <vector>
-#include "Token.h"
+#include "Token.cpp"
 
 using namespace std;
 
