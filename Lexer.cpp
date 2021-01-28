@@ -9,7 +9,7 @@ Dallin Henderson
 #include <fstream>
 #include <vector>
 #include <cctype>
-#include "Tokenizer.h"
+#include "Tokenizer.cpp"
 
 using namespace std;
 
