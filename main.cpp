@@ -9,7 +9,7 @@ Lab 1 - Scanner/Tokenizer
 #include <cstdlib>
 #include <cctype>
 #include <vector>
-#include "Lexer.h"
+#include "Lexer.cpp"
 
 using namespace std;
 
